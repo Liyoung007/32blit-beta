@@ -1,9 +1,8 @@
 var searchData=
 [
-  ['circle',['circle',['../structblit_1_1surface.html#afc7aac362779ee036aeac9fb959bfd02',1,'blit::surface']]],
-  ['clear',['clear',['../structblit_1_1surface.html#a1761d09852f1b277ba4c0430263f3c91',1,'blit::surface']]],
-  ['clip_5fspan',['clip_span',['../structblit_1_1surface.html#a5fed217de82121a26a622085be87c0af',1,'blit::surface']]],
-  ['cross',['cross',['../structvec2.html#a0f267db7947491d1325763325f7f31ce',1,'vec2::cross(const vec2 &amp;a)'],['../structvec2.html#a5b2a63774d943929692088ce6347014a',1,'vec2::cross(const vec2 *a)']]],
-  ['custom_5fblend',['custom_blend',['../structblit_1_1surface.html#ad989e62c6ce548f5795a4336bc024abd',1,'blit::surface']]],
-  ['custom_5fmodify',['custom_modify',['../structblit_1_1surface.html#abcc4a1c164a97c6d0192dbec4c58763e',1,'blit::surface']]]
+  ['circle',['circle',['../structblit_1_1Surface.html#a60fca9a28f5d4e9ea2fdfd113f58099c',1,'blit::Surface']]],
+  ['clear',['clear',['../structblit_1_1Surface.html#a0abc100bc68222807e72701d80cfb0ee',1,'blit::Surface']]],
+  ['cross',['cross',['../structblit_1_1Vec2.html#a7f5cc57f5edfe89985f008d1f5d68585',1,'blit::Vec2::cross(const Vec2 &amp;a)'],['../structblit_1_1Vec2.html#a2ab9c95c17899878686d5ac29ea4a46e',1,'blit::Vec2::cross(const Vec2 *a)']]],
+  ['custom_5fblend',['custom_blend',['../structblit_1_1Surface.html#adb69d83a49a2610f80a7a286f2d3de0e',1,'blit::Surface']]],
+  ['custom_5fmodify',['custom_modify',['../structblit_1_1Surface.html#a5fadf74243be38b43c78204a9d7d5cb2',1,'blit::Surface']]]
 ];

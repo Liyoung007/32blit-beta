@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['input_2ecpp',['input.cpp',['../input_8cpp.html',1,'']]],
-  ['interpolation_2ecpp',['interpolation.cpp',['../interpolation_8cpp.html',1,'']]],
-  ['is_5ftop_5fleft',['is_top_left',['../primitive_8cpp.html#a82e3cb46cedd037843bde07a60b9ae15',1,'blit']]]
+  ['h_5fspan',['h_span',['../structblit_1_1Surface.html#af81db9b4d9f2cb652d794d976ea269be',1,'blit::Surface']]],
+  ['hsv_5fto_5frgba',['hsv_to_rgba',['../color_8cpp.html#a2f5438d2e936f98ef833fe13bd8b9055',1,'blit']]]
 ];

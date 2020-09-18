@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.13"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>32blit API: engine/geometry.cpp File Reference</title>
+<title>32blit API: math/geometry.cpp File Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -88,33 +88,35 @@ $(document).ready(function(){initNavTree('geometry_8cpp.html','');});
 
 <p>Geometry helper functions.  
 <a href="#details">More...</a></p>
-<div class="textblock"><code>#include &lt;string.h&gt;</code><br />
-<code>#include &lt;float.h&gt;</code><br />
+<div class="textblock"><code>#include &lt;cstring&gt;</code><br />
+<code>#include &lt;cfloat&gt;</code><br />
 <code>#include &quot;../types/vec3.hpp&quot;</code><br />
 <code>#include &quot;../types/vec2.hpp&quot;</code><br />
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for geometry.cpp:</div>
 <div class="dyncontent">
-<div class="center"><img src="geometry_8cpp__incl.png" border="0" usemap="#engine_2geometry_8cpp" alt=""/></div>
-<map name="engine_2geometry_8cpp" id="engine_2geometry_8cpp">
+<div class="center"><img src="geometry_8cpp__incl.png" border="0" usemap="#math_2geometry_8cpp" alt=""/></div>
+<map name="math_2geometry_8cpp" id="math_2geometry_8cpp">
+<area shape="rect" id="node4" href="vec3_8hpp_source.html" title="../types/vec3.hpp" alt="" coords="179,80,312,107"/>
+<area shape="rect" id="node5" href="vec2_8hpp_source.html" title="../types/vec2.hpp" alt="" coords="336,80,469,107"/>
 </map>
 </div>
 </div><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:aee47901ff28977f264c6f2fe31518f0a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="geometry_8cpp.html#aee47901ff28977f264c6f2fe31518f0a">ray_sphere_intersect</a> (<a class="el" href="structvec3.html">vec3</a> ray_origin, <a class="el" href="structvec3.html">vec3</a> ray_vector, <a class="el" href="structvec3.html">vec3</a> sphere_origin, float sphere_radius, <a class="el" href="structvec3.html">vec3</a> *point=NULL, float *distance=NULL, <a class="el" href="structvec3.html">vec3</a> *normal=NULL)</td></tr>
-<tr class="separator:aee47901ff28977f264c6f2fe31518f0a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae9839c7b1f892561142ce4cc220dd9d9"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="geometry_8cpp.html#ae9839c7b1f892561142ce4cc220dd9d9">ray_circle_intersect</a> (<a class="el" href="structvec2.html">vec2</a> ray_origin, <a class="el" href="structvec2.html">vec2</a> ray_vector, <a class="el" href="structvec2.html">vec2</a> circle_origin, float circle_radius, <a class="el" href="structvec2.html">vec2</a> *point=NULL, float *distance=NULL, <a class="el" href="structvec2.html">vec2</a> *normal=NULL)</td></tr>
-<tr class="separator:ae9839c7b1f892561142ce4cc220dd9d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad9fa08aa6ac78263aabb9ad1b908ec39"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="geometry_8cpp.html#ad9fa08aa6ac78263aabb9ad1b908ec39">ray_line_intersect</a> (<a class="el" href="structvec2.html">vec2</a> ray_origin, <a class="el" href="structvec2.html">vec2</a> ray_vector, <a class="el" href="structvec2.html">vec2</a> start, <a class="el" href="structvec2.html">vec2</a> end, <a class="el" href="structvec2.html">vec2</a> *point=NULL, float *distance=NULL)</td></tr>
-<tr class="separator:ad9fa08aa6ac78263aabb9ad1b908ec39"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab2ac077c41b7179cc5e32937a734200a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="geometry_8cpp.html#ab2ac077c41b7179cc5e32937a734200a">ray_sphere_intersect</a> (<a class="el" href="structblit_1_1Vec3.html">Vec3</a> ray_origin, <a class="el" href="structblit_1_1Vec3.html">Vec3</a> ray_vector, <a class="el" href="structblit_1_1Vec3.html">Vec3</a> sphere_origin, float sphere_radius, <a class="el" href="structblit_1_1Vec3.html">Vec3</a> *point=nullptr, float *distance=nullptr, <a class="el" href="structblit_1_1Vec3.html">Vec3</a> *normal=nullptr)</td></tr>
+<tr class="separator:ab2ac077c41b7179cc5e32937a734200a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a16918933674ba8b82e9d1a80cbe22787"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="geometry_8cpp.html#a16918933674ba8b82e9d1a80cbe22787">ray_circle_intersect</a> (<a class="el" href="structblit_1_1Vec2.html">Vec2</a> ray_origin, <a class="el" href="structblit_1_1Vec2.html">Vec2</a> ray_vector, <a class="el" href="structblit_1_1Vec2.html">Vec2</a> circle_origin, float circle_radius, <a class="el" href="structblit_1_1Vec2.html">Vec2</a> *point=nullptr, float *distance=nullptr, <a class="el" href="structblit_1_1Vec2.html">Vec2</a> *normal=nullptr)</td></tr>
+<tr class="separator:a16918933674ba8b82e9d1a80cbe22787"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a23984b05be35d5dbfc4bb66b33027b38"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="geometry_8cpp.html#a23984b05be35d5dbfc4bb66b33027b38">ray_line_intersect</a> (<a class="el" href="structblit_1_1Vec2.html">Vec2</a> ray_origin, <a class="el" href="structblit_1_1Vec2.html">Vec2</a> ray_vector, <a class="el" href="structblit_1_1Vec2.html">Vec2</a> start, <a class="el" href="structblit_1_1Vec2.html">Vec2</a> end, <a class="el" href="structblit_1_1Vec2.html">Vec2</a> *point=nullptr, float *distance=nullptr)</td></tr>
+<tr class="separator:a23984b05be35d5dbfc4bb66b33027b38"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Geometry helper functions. </p>
 <p>These are some neat functions for geometry stuff! </p>
 </div><h2 class="groupheader">Function Documentation</h2>
-<a id="ae9839c7b1f892561142ce4cc220dd9d9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae9839c7b1f892561142ce4cc220dd9d9">&#9670;&nbsp;</a></span>ray_circle_intersect()</h2>
+<a id="a16918933674ba8b82e9d1a80cbe22787"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a16918933674ba8b82e9d1a80cbe22787">&#9670;&nbsp;</a></span>ray_circle_intersect()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -122,19 +124,19 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">bool ray_circle_intersect </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="structvec2.html">vec2</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="structblit_1_1Vec2.html">Vec2</a>&#160;</td>
           <td class="paramname"><em>ray_origin</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="structvec2.html">vec2</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="structblit_1_1Vec2.html">Vec2</a>&#160;</td>
           <td class="paramname"><em>ray_vector</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="structvec2.html">vec2</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="structblit_1_1Vec2.html">Vec2</a>&#160;</td>
           <td class="paramname"><em>circle_origin</em>, </td>
         </tr>
         <tr>
@@ -146,20 +148,20 @@ Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="structvec2.html">vec2</a> *&#160;</td>
-          <td class="paramname"><em>point</em> = <code>NULL</code>, </td>
+          <td class="paramtype"><a class="el" href="structblit_1_1Vec2.html">Vec2</a> *&#160;</td>
+          <td class="paramname"><em>point</em> = <code>nullptr</code>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">float *&#160;</td>
-          <td class="paramname"><em>distance</em> = <code>NULL</code>, </td>
+          <td class="paramname"><em>distance</em> = <code>nullptr</code>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="structvec2.html">vec2</a> *&#160;</td>
-          <td class="paramname"><em>normal</em> = <code>NULL</code>&#160;</td>
+          <td class="paramtype"><a class="el" href="structblit_1_1Vec2.html">Vec2</a> *&#160;</td>
+          <td class="paramname"><em>normal</em> = <code>nullptr</code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -185,8 +187,8 @@ Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="ad9fa08aa6ac78263aabb9ad1b908ec39"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad9fa08aa6ac78263aabb9ad1b908ec39">&#9670;&nbsp;</a></span>ray_line_intersect()</h2>
+<a id="a23984b05be35d5dbfc4bb66b33027b38"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a23984b05be35d5dbfc4bb66b33027b38">&#9670;&nbsp;</a></span>ray_line_intersect()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -194,38 +196,38 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">bool ray_line_intersect </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="structvec2.html">vec2</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="structblit_1_1Vec2.html">Vec2</a>&#160;</td>
           <td class="paramname"><em>ray_origin</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="structvec2.html">vec2</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="structblit_1_1Vec2.html">Vec2</a>&#160;</td>
           <td class="paramname"><em>ray_vector</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="structvec2.html">vec2</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="structblit_1_1Vec2.html">Vec2</a>&#160;</td>
           <td class="paramname"><em>start</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="structvec2.html">vec2</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="structblit_1_1Vec2.html">Vec2</a>&#160;</td>
           <td class="paramname"><em>end</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="structvec2.html">vec2</a> *&#160;</td>
-          <td class="paramname"><em>point</em> = <code>NULL</code>, </td>
+          <td class="paramtype"><a class="el" href="structblit_1_1Vec2.html">Vec2</a> *&#160;</td>
+          <td class="paramname"><em>point</em> = <code>nullptr</code>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">float *&#160;</td>
-          <td class="paramname"><em>distance</em> = <code>NULL</code>&#160;</td>
+          <td class="paramname"><em>distance</em> = <code>nullptr</code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -250,8 +252,8 @@ Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="aee47901ff28977f264c6f2fe31518f0a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aee47901ff28977f264c6f2fe31518f0a">&#9670;&nbsp;</a></span>ray_sphere_intersect()</h2>
+<a id="ab2ac077c41b7179cc5e32937a734200a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab2ac077c41b7179cc5e32937a734200a">&#9670;&nbsp;</a></span>ray_sphere_intersect()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -259,19 +261,19 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">bool ray_sphere_intersect </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="structvec3.html">vec3</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="structblit_1_1Vec3.html">Vec3</a>&#160;</td>
           <td class="paramname"><em>ray_origin</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="structvec3.html">vec3</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="structblit_1_1Vec3.html">Vec3</a>&#160;</td>
           <td class="paramname"><em>ray_vector</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="structvec3.html">vec3</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="structblit_1_1Vec3.html">Vec3</a>&#160;</td>
           <td class="paramname"><em>sphere_origin</em>, </td>
         </tr>
         <tr>
@@ -283,20 +285,20 @@ Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="structvec3.html">vec3</a> *&#160;</td>
-          <td class="paramname"><em>point</em> = <code>NULL</code>, </td>
+          <td class="paramtype"><a class="el" href="structblit_1_1Vec3.html">Vec3</a> *&#160;</td>
+          <td class="paramname"><em>point</em> = <code>nullptr</code>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">float *&#160;</td>
-          <td class="paramname"><em>distance</em> = <code>NULL</code>, </td>
+          <td class="paramname"><em>distance</em> = <code>nullptr</code>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="structvec3.html">vec3</a> *&#160;</td>
-          <td class="paramname"><em>normal</em> = <code>NULL</code>&#160;</td>
+          <td class="paramtype"><a class="el" href="structblit_1_1Vec3.html">Vec3</a> *&#160;</td>
+          <td class="paramname"><em>normal</em> = <code>nullptr</code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -327,7 +329,7 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="dir_996f45160da62e1a3d7f6046fad68f51.html">engine</a></li><li class="navelem"><a class="el" href="geometry_8cpp.html">geometry.cpp</a></li>
+    <li class="navelem"><a class="el" href="dir_296d53ceaeaa7e099814a6def439fe8a.html">math</a></li><li class="navelem"><a class="el" href="geometry_8cpp.html">geometry.cpp</a></li>
     <li class="footer">Generated by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>

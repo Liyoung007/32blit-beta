@@ -1,5 +1,12 @@
 var searchData=
 [
-  ['offset',['offset',['../structblit_1_1tilemap.html#a7bc57a6342ae983e036669c74d7e748f',1,'blit::tilemap::offset(const point &amp;p) __attribute__((always_inline))'],['../structblit_1_1tilemap.html#a8548c2e2a70b5256e9bf49a2e4b67dfe',1,'blit::tilemap::offset(const int16_t &amp;x, const int16_t &amp;y) __attribute__((always_inline))']]],
-  ['orient2d',['orient2d',['../primitive_8cpp.html#a11b9a4aa2ca41e1bceba9bcb95932ee3',1,'blit']]]
+  ['map',['Map',['../structblit_1_1Map.html',1,'blit']]],
+  ['maplayer',['MapLayer',['../structblit_1_1MapLayer.html',1,'blit']]],
+  ['mat3',['Mat3',['../structblit_1_1Mat3.html',1,'blit']]],
+  ['mat3_2ecpp',['mat3.cpp',['../mat3_8cpp.html',1,'']]],
+  ['mat4',['Mat4',['../structblit_1_1Mat4.html',1,'blit']]],
+  ['mat4_2ecpp',['mat4.cpp',['../mat4_8cpp.html',1,'']]],
+  ['metrics',['Metrics',['../structblit_1_1ProfilerProbe_1_1Metrics.html',1,'blit::ProfilerProbe']]],
+  ['mode7',['mode7',['../mode7_8cpp.html#ace27258965452830a186852c6ba5c070',1,'blit']]],
+  ['mode7_2ecpp',['mode7.cpp',['../mode7_8cpp.html',1,'']]]
 ];

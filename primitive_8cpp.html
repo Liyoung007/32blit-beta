@@ -89,28 +89,36 @@ $(document).ready(function(){initNavTree('primitive_8cpp.html','');});
 <p>Drawing routines for primitive shapes.  
 <a href="#details">More...</a></p>
 <div class="textblock"><code>#include &lt;cstdlib&gt;</code><br />
-<code>#include &lt;math.h&gt;</code><br />
+<code>#include &lt;cmath&gt;</code><br />
 <code>#include &quot;surface.hpp&quot;</code><br />
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for primitive.cpp:</div>
 <div class="dyncontent">
 <div class="center"><img src="primitive_8cpp__incl.png" border="0" usemap="#graphics_2primitive_8cpp" alt=""/></div>
 <map name="graphics_2primitive_8cpp" id="graphics_2primitive_8cpp">
+<area shape="rect" id="node4" href="surface_8hpp_source.html" title="surface.hpp" alt="" coords="388,80,486,107"/>
+<area shape="rect" id="node12" href="font_8hpp_source.html" title="font.hpp" alt="" coords="22,229,98,256"/>
+<area shape="rect" id="node13" href="rect_8hpp_source.html" title="../types/rect.hpp" alt="" coords="708,155,835,181"/>
+<area shape="rect" id="node18" href="size_8hpp_source.html" title="size.hpp" alt="" coords="810,229,886,256"/>
+<area shape="rect" id="node19" href="blend_8hpp_source.html" title="../graphics/blend.hpp" alt="" coords="122,229,280,256"/>
+<area shape="rect" id="node15" href="point_8hpp_source.html" title="point.hpp" alt="" coords="766,304,849,331"/>
+<area shape="rect" id="node16" href="mat3_8hpp_source.html" title="mat3.hpp" alt="" coords="696,379,780,405"/>
+<area shape="rect" id="node17" href="vec2_8hpp_source.html" title="vec2.hpp" alt="" coords="804,379,886,405"/>
 </map>
 </div>
 </div><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a11b9a4aa2ca41e1bceba9bcb95932ee3"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="primitive_8cpp.html#a11b9a4aa2ca41e1bceba9bcb95932ee3">blit::orient2d</a> (<a class="el" href="structblit_1_1point.html">point</a> p1, <a class="el" href="structblit_1_1point.html">point</a> p2, <a class="el" href="structblit_1_1point.html">point</a> p3)</td></tr>
-<tr class="separator:a11b9a4aa2ca41e1bceba9bcb95932ee3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a82e3cb46cedd037843bde07a60b9ae15"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="primitive_8cpp.html#a82e3cb46cedd037843bde07a60b9ae15">blit::is_top_left</a> (const <a class="el" href="structblit_1_1point.html">point</a> &amp;p1, const <a class="el" href="structblit_1_1point.html">point</a> &amp;p2)</td></tr>
-<tr class="separator:a82e3cb46cedd037843bde07a60b9ae15"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af4783f5b7997290674293078ae452b6c"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="primitive_8cpp.html#af4783f5b7997290674293078ae452b6c">blit::orient2d</a> (Point p1, Point p2, Point p3)</td></tr>
+<tr class="separator:af4783f5b7997290674293078ae452b6c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0b43bad15157e5f2ed6bb41ae11f934b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="primitive_8cpp.html#a0b43bad15157e5f2ed6bb41ae11f934b">blit::is_top_left</a> (const Point &amp;p1, const Point &amp;p2)</td></tr>
+<tr class="separator:a0b43bad15157e5f2ed6bb41ae11f934b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Drawing routines for primitive shapes. </p>
 </div><h2 class="groupheader">Function Documentation</h2>
-<a id="file_a82e3cb46cedd037843bde07a60b9ae15"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#file_a82e3cb46cedd037843bde07a60b9ae15">&#9670;&nbsp;</a></span>is_top_left()</h2>
+<a id="file_a0b43bad15157e5f2ed6bb41ae11f934b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#file_a0b43bad15157e5f2ed6bb41ae11f934b">&#9670;&nbsp;</a></span>is_top_left()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -118,13 +126,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">bool blit::is_top_left </td>
           <td>(</td>
-          <td class="paramtype">const <a class="el" href="structblit_1_1point.html">point</a> &amp;&#160;</td>
+          <td class="paramtype">const <a class="el" href="structblit_1_1Point.html">Point</a> &amp;&#160;</td>
           <td class="paramname"><em>p1</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const <a class="el" href="structblit_1_1point.html">point</a> &amp;&#160;</td>
+          <td class="paramtype">const <a class="el" href="structblit_1_1Point.html">Point</a> &amp;&#160;</td>
           <td class="paramname"><em>p2</em>&#160;</td>
         </tr>
         <tr>
@@ -145,8 +153,8 @@ Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="file_a11b9a4aa2ca41e1bceba9bcb95932ee3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#file_a11b9a4aa2ca41e1bceba9bcb95932ee3">&#9670;&nbsp;</a></span>orient2d()</h2>
+<a id="file_af4783f5b7997290674293078ae452b6c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#file_af4783f5b7997290674293078ae452b6c">&#9670;&nbsp;</a></span>orient2d()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -154,19 +162,19 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">int32_t blit::orient2d </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="structblit_1_1point.html">point</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="structblit_1_1Point.html">Point</a>&#160;</td>
           <td class="paramname"><em>p1</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="structblit_1_1point.html">point</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="structblit_1_1Point.html">Point</a>&#160;</td>
           <td class="paramname"><em>p2</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="structblit_1_1point.html">point</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="structblit_1_1Point.html">Point</a>&#160;</td>
           <td class="paramname"><em>p3</em>&#160;</td>
         </tr>
         <tr>

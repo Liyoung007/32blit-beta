@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['map',['Map',['../structMap.html',1,'']]],
-  ['maplayer',['MapLayer',['../structMapLayer.html',1,'']]],
-  ['mat3',['mat3',['../structmat3.html',1,'']]],
-  ['mat4',['mat4',['../structmat4.html',1,'']]]
+  ['bufferfile',['BufferFile',['../structblit_1_1BufferFile.html',1,'blit']]],
+  ['buttonstate',['ButtonState',['../structblit_1_1ButtonState.html',1,'blit']]]
 ];

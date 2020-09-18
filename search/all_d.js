@@ -1,12 +1,6 @@
 var searchData=
 [
-  ['ray_5fcircle_5fintersect',['ray_circle_intersect',['../geometry_8cpp.html#ae9839c7b1f892561142ce4cc220dd9d9',1,'geometry.cpp']]],
-  ['ray_5fline_5fintersect',['ray_line_intersect',['../geometry_8cpp.html#ad9fa08aa6ac78263aabb9ad1b908ec39',1,'geometry.cpp']]],
-  ['ray_5fsphere_5fintersect',['ray_sphere_intersect',['../geometry_8cpp.html#aee47901ff28977f264c6f2fe31518f0a',1,'geometry.cpp']]],
-  ['rect',['rect',['../structblit_1_1rect.html',1,'blit']]],
-  ['rectangle',['rectangle',['../structblit_1_1surface.html#a9b9d095e1f7a5bf371dab78d51fe98e2',1,'blit::surface']]],
-  ['rgb',['rgb',['../structblit_1_1rgb.html',1,'blit']]],
-  ['rgb565',['rgb565',['../structblit_1_1rgb565.html',1,'blit']]],
-  ['rgba',['rgba',['../structblit_1_1rgba.html',1,'blit']]],
-  ['rotate',['rotate',['../structvec2.html#a33eff4470e46db7f5adaf6e1163bdae5',1,'vec2']]]
+  ['offset',['offset',['../structblit_1_1TileMap.html#afc99a749030bc8c60c3396e7bccc38c7',1,'blit::TileMap::offset(const Point &amp;p)'],['../structblit_1_1TileMap.html#a64b12245dfe6f4c355a7d0938773ad0a',1,'blit::TileMap::offset(const int16_t &amp;x, const int16_t &amp;y)']]],
+  ['orient2d',['orient2d',['../primitive_8cpp.html#af4783f5b7997290674293078ae452b6c',1,'blit']]],
+  ['output_2ecpp',['output.cpp',['../output_8cpp.html',1,'']]]
 ];

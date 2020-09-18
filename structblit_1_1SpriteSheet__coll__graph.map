@@ -1,0 +1,6 @@
+<map id="blit::SpriteSheet" name="blit::SpriteSheet">
+<area shape="rect" id="node2" href="$structblit_1_1Surface.html" title="blit::Surface" alt="" coords="144,125,244,152"/>
+<area shape="rect" id="node3" href="$structblit_1_1Pen.html" title="blit::Pen" alt="" coords="157,5,231,32"/>
+<area shape="rect" id="node4" href="$structblit_1_1Rect.html" title="blit::Rect" alt="" coords="256,5,335,32"/>
+<area shape="rect" id="node5" href="$structblit_1_1Size.html" title="blit::Size" alt="" coords="359,5,437,32"/>
+</map>

@@ -1,10 +1,9 @@
 var searchData=
 [
-  ['text',['text',['../structblit_1_1surface.html#a717bd844d5eb5831c04740816407a153',1,'blit::surface::text(std::string message, const uint8_t *font, const rect &amp;r, bool variable=true)'],['../structblit_1_1surface.html#a6c4d5db68f89bbc502c2e8c984ebede9',1,'blit::surface::text(std::string message, const uint8_t *font, const point &amp;p, bool variable=true)']]],
-  ['texture_5fspan',['texture_span',['../structblit_1_1tilemap.html#ac35f886966831fed51d03b789dec8f0d',1,'blit::tilemap']]],
-  ['tile_5fat',['tile_at',['../structblit_1_1tilemap.html#a01f6243e4249649a4473282bfbdcaa0e',1,'blit::tilemap']]],
-  ['tilemap',['tilemap',['../structblit_1_1tilemap.html#a7942235eaad422ccdb034f8232229b56',1,'blit::tilemap']]],
-  ['timer',['timer',['../structblit_1_1timer.html#a0ccd9b764d334b0695c038240b90f010',1,'blit::timer']]],
-  ['transform_5fat',['transform_at',['../structblit_1_1tilemap.html#ac21e80f9d25a0507ed9049a5e6cb47aa',1,'blit::tilemap']]],
-  ['triangle',['triangle',['../structblit_1_1surface.html#a6f73d83a60b32079faaeb62fa020c1b4',1,'blit::surface']]]
+  ['text',['text',['../structblit_1_1Surface.html#a4b4f9375a498340ecf8f5d06281e9add',1,'blit::Surface::text(std::string_view message, const Font &amp;font, const Rect &amp;r, bool variable=true, TextAlign align=TextAlign::top_left)'],['../structblit_1_1Surface.html#ae27f6e99863e2a2337e6dbc7660800bb',1,'blit::Surface::text(std::string_view message, const Font &amp;font, const Point &amp;p, bool variable=true, TextAlign align=TextAlign::top_left)']]],
+  ['texture_5fspan',['texture_span',['../structblit_1_1TileMap.html#a7798430732ddee2664fe925d83a0a772',1,'blit::TileMap']]],
+  ['tile_5fat',['tile_at',['../structblit_1_1TileMap.html#ae046d828377b810f4cb74ca6856ce4e1',1,'blit::TileMap']]],
+  ['tilemap',['TileMap',['../structblit_1_1TileMap.html#a0b021288e659bfdae496605594abcb52',1,'blit::TileMap']]],
+  ['transform_5fat',['transform_at',['../structblit_1_1TileMap.html#a39884b6ea0d627b0371cdb7be5445be9',1,'blit::TileMap']]],
+  ['triangle',['triangle',['../structblit_1_1Surface.html#a879bbbdb39d68569dd6c7393f7df9681',1,'blit::Surface']]]
 ];

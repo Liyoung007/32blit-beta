@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['normalize',['normalize',['../structvec2.html#a4b8c6b2e6a7cb804e1cc4211edadbcfa',1,'vec2']]]
+  ['normalize',['normalize',['../structblit_1_1Vec2.html#a9f94bbafbadefb83cc085da1748e2eca',1,'blit::Vec2']]]
 ];

@@ -23,7 +23,8 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 ".html",
-"structblit_1_1tilemap.html#a01cf6fd8c0323c3b95b6c584063a000e"
+"structblit_1_1Map.html#ac50b4f85c373440fc19ac9a83445e80f",
+"structblit_1_1Tween.html#a18f9051af55b8c8a532c79631413bf1da1be6a2f67707ea81d364189d4acba995"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

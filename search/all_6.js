@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['hsv_5fto_5frgba',['hsv_to_rgba',['../color_8cpp.html#abeaf66469768a6b68e90b02f955d877b',1,'blit']]]
+  ['generate_5fmipmaps',['generate_mipmaps',['../structblit_1_1Surface.html#a5475ac177bc2410bb300e40a281de27b',1,'blit::Surface']]],
+  ['geometry_2ecpp',['geometry.cpp',['../geometry_8cpp.html',1,'']]],
+  ['graphelement',['GraphElement',['../structblit_1_1Profiler_1_1GraphElement.html',1,'blit::Profiler']]]
 ];

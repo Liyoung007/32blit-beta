@@ -1,0 +1,10 @@
+<map id="graphics/primitive.cpp" name="graphics/primitive.cpp">
+<area shape="rect" id="node4" href="$surface_8hpp_source.html" title="surface.hpp" alt="" coords="388,80,486,107"/>
+<area shape="rect" id="node12" href="$font_8hpp_source.html" title="font.hpp" alt="" coords="22,229,98,256"/>
+<area shape="rect" id="node13" href="$rect_8hpp_source.html" title="../types/rect.hpp" alt="" coords="708,155,835,181"/>
+<area shape="rect" id="node18" href="$size_8hpp_source.html" title="size.hpp" alt="" coords="810,229,886,256"/>
+<area shape="rect" id="node19" href="$blend_8hpp_source.html" title="../graphics/blend.hpp" alt="" coords="122,229,280,256"/>
+<area shape="rect" id="node15" href="$point_8hpp_source.html" title="point.hpp" alt="" coords="766,304,849,331"/>
+<area shape="rect" id="node16" href="$mat3_8hpp_source.html" title="mat3.hpp" alt="" coords="696,379,780,405"/>
+<area shape="rect" id="node17" href="$vec2_8hpp_source.html" title="vec2.hpp" alt="" coords="804,379,886,405"/>
+</map>

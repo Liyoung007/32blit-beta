@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['length',['length',['../structvec2.html#a505adefd6c2ff20466b2e9c40ace9633',1,'vec2']]],
-  ['lerp',['lerp',['../interpolation_8cpp.html#ac8cacff70fec3c1cc8a26b8421a09807',1,'lerp(float value, float start, float end, float min, float max):&#160;interpolation.cpp'],['../interpolation_8cpp.html#a4627b65a51b58836eedbe879fb6594d0',1,'lerp(float value, float start, float end):&#160;interpolation.cpp'],['../interpolation_8cpp.html#a64d73d935289c0655ad65fabcb5061df',1,'lerp(float value, float start, float end, vec2 min, vec2 max):&#160;interpolation.cpp'],['../interpolation_8cpp.html#a0e33250a25207bfb024bd5609d5cd7a8',1,'lerp(float value, vec2 start, vec2 end):&#160;interpolation.cpp']]],
-  ['line',['line',['../structblit_1_1surface.html#ad47f935b13f48fc692f51f4d3b0695ff',1,'blit::surface']]]
+  ['length',['length',['../structblit_1_1Vec2.html#a60ae08e474ff1866027690ceab7cebe6',1,'blit::Vec2']]],
+  ['lerp',['lerp',['../interpolation_8cpp.html#af1d4efffa658acd7c6e83272024686fc',1,'blit::lerp(float value, float start, float end, float min, float max)'],['../interpolation_8cpp.html#a9533b8c85248cde3cad49848c6456f33',1,'blit::lerp(float value, float start, float end)'],['../interpolation_8cpp.html#ad40a9381c39f7c4c8113edba8ace099d',1,'blit::lerp(float value, float start, float end, Vec2 min, Vec2 max)'],['../interpolation_8cpp.html#af5aa2f6c3a7513f20752ead15683514e',1,'blit::lerp(float value, Vec2 start, Vec2 end)']]],
+  ['line',['line',['../structblit_1_1Surface.html#a5136435762070e7109328be902a9fdd8',1,'blit::Surface']]]
 ];

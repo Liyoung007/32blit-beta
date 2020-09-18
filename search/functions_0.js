@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['angle',['angle',['../structvec2.html#a390c896f3a2b5f7f6f7ad44847fdabaf',1,'vec2']]]
+  ['angle',['angle',['../structblit_1_1Vec2.html#ae9f5b1d08a133586e70a8c064e61f57a',1,'blit::Vec2']]]
 ];
