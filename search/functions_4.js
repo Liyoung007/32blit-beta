@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['generate_5fmipmaps',['generate_mipmaps',['../structblit_1_1Surface.html#a5475ac177bc2410bb300e40a281de27b',1,'blit::Surface']]]
+  ['file_5fexists',['file_exists',['../namespaceblit.html#a5f37fe2d6326ba141626b2c3e6d3fa42',1,'blit']]],
+  ['font',['Font',['../structblit_1_1Font.html#a4aadedd6c257a43b4021eaf5984b444b',1,'blit::Font']]]
 ];

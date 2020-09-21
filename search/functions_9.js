@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['normalize',['normalize',['../structblit_1_1Vec2.html#a9f94bbafbadefb83cc085da1748e2eca',1,'blit::Vec2']]]
+  ['measure_5ftext',['measure_text',['../structblit_1_1Surface.html#a9cce86f678b425b2ac9eca9cee75e375',1,'blit::Surface']]],
+  ['mode7',['mode7',['../namespaceblit.html#ace27258965452830a186852c6ba5c070',1,'blit']]]
 ];

@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['v_5fspan',['v_span',['../structblit_1_1Surface.html#a7f34d04d47c44ed7d8e5b547f65dbe2a',1,'blit::Surface']]]
+  ['update',['update',['../structblit_1_1ParticleGenerator.html#a54c0cb581845eecdf7bdd65e5afbe560',1,'blit::ParticleGenerator']]],
+  ['update_5ftimers',['update_timers',['../namespaceblit.html#a2c89464c1a9d3da26f00ec93e77eaef1',1,'blit']]],
+  ['update_5ftweens',['update_tweens',['../namespaceblit.html#a97568178049584b390b7305192cbea4a',1,'blit']]]
 ];

@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['init',['init',['../structblit_1_1Timer.html#a7b23bc828cf1928f0b6dd7039d2fcc59',1,'blit::Timer::init()'],['../structblit_1_1Tween.html#a8c02c87bc364d7a54149f34fb32673cd',1,'blit::Tween::init()']]],
-  ['is_5ftop_5fleft',['is_top_left',['../primitive_8cpp.html#a0b43bad15157e5f2ed6bb41ae11f934b',1,'blit']]]
+  ['h_5fspan',['h_span',['../structblit_1_1Surface.html#af81db9b4d9f2cb652d794d976ea269be',1,'blit::Surface']]],
+  ['hsv_5fto_5frgba',['hsv_to_rgba',['../namespaceblit.html#a2f5438d2e936f98ef833fe13bd8b9055',1,'blit']]]
 ];

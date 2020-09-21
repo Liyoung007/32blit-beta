@@ -87,6 +87,8 @@ $(document).ready(function(){initNavTree('classblit_1_1File.html','');});
 <div class="title">blit::File Class Reference<span class="mlabels"><span class="mlabel">final</span></span></div>  </div>
 </div><!--header-->
 <div class="contents">
+
+<p><code>#include &lt;<a class="el" href="file_8hpp_source.html">engine/file.hpp</a>&gt;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
@@ -105,34 +107,295 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a5567cbf650b0d347eec2d91e2f5fb64c"><td class="memItemLeft" align="right" valign="top"><a id="a5567cbf650b0d347eec2d91e2f5fb64c"></a>
 <a class="el" href="classblit_1_1File.html">File</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><b>operator=</b> (<a class="el" href="classblit_1_1File.html">File</a> &amp;&amp;other) noexcept</td></tr>
 <tr class="separator:a5567cbf650b0d347eec2d91e2f5fb64c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6e05100e1e8b60de8f0621e8740c3c75"><td class="memItemLeft" align="right" valign="top"><a id="a6e05100e1e8b60de8f0621e8740c3c75"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>open</b> (const std::string &amp;file, int mode=OpenMode::read)</td></tr>
+<tr class="memitem:a6e05100e1e8b60de8f0621e8740c3c75"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classblit_1_1File.html#a6e05100e1e8b60de8f0621e8740c3c75">open</a> (const std::string &amp;file, int mode=OpenMode::read)</td></tr>
 <tr class="separator:a6e05100e1e8b60de8f0621e8740c3c75"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a489f3ac4cab172d811cc2daf2dc19083"><td class="memItemLeft" align="right" valign="top"><a id="a489f3ac4cab172d811cc2daf2dc19083"></a>
-int32_t&#160;</td><td class="memItemRight" valign="bottom"><b>read</b> (uint32_t offset, uint32_t length, char *buffer)</td></tr>
+<tr class="memitem:a489f3ac4cab172d811cc2daf2dc19083"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classblit_1_1File.html#a489f3ac4cab172d811cc2daf2dc19083">read</a> (uint32_t offset, uint32_t length, char *buffer)</td></tr>
 <tr class="separator:a489f3ac4cab172d811cc2daf2dc19083"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a865f6fc1ba5b797db31d45cb80539f77"><td class="memItemLeft" align="right" valign="top"><a id="a865f6fc1ba5b797db31d45cb80539f77"></a>
-int32_t&#160;</td><td class="memItemRight" valign="bottom"><b>write</b> (uint32_t offset, uint32_t length, const char *buffer)</td></tr>
+<tr class="memitem:a865f6fc1ba5b797db31d45cb80539f77"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classblit_1_1File.html#a865f6fc1ba5b797db31d45cb80539f77">write</a> (uint32_t offset, uint32_t length, const char *buffer)</td></tr>
 <tr class="separator:a865f6fc1ba5b797db31d45cb80539f77"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad64b7d1c9db678598f3dd0c27c24521e"><td class="memItemLeft" align="right" valign="top"><a id="ad64b7d1c9db678598f3dd0c27c24521e"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>close</b> ()</td></tr>
+<tr class="memitem:ad64b7d1c9db678598f3dd0c27c24521e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classblit_1_1File.html#ad64b7d1c9db678598f3dd0c27c24521e">close</a> ()</td></tr>
 <tr class="separator:ad64b7d1c9db678598f3dd0c27c24521e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2464fed32d893b7b5e2c6485e1278bfc"><td class="memItemLeft" align="right" valign="top"><a id="a2464fed32d893b7b5e2c6485e1278bfc"></a>
-uint32_t&#160;</td><td class="memItemRight" valign="bottom"><b>get_length</b> ()</td></tr>
+<tr class="memitem:a2464fed32d893b7b5e2c6485e1278bfc"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classblit_1_1File.html#a2464fed32d893b7b5e2c6485e1278bfc">get_length</a> ()</td></tr>
 <tr class="separator:a2464fed32d893b7b5e2c6485e1278bfc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa12df85536f9a8f9487f9bbfdb386f44"><td class="memItemLeft" align="right" valign="top"><a id="aa12df85536f9a8f9487f9bbfdb386f44"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>is_open</b> () const</td></tr>
+<tr class="memitem:aa12df85536f9a8f9487f9bbfdb386f44"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classblit_1_1File.html#aa12df85536f9a8f9487f9bbfdb386f44">is_open</a> () const</td></tr>
 <tr class="separator:aa12df85536f9a8f9487f9bbfdb386f44"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab8b7cf440f3cdc06e06c61b965126a10"><td class="memItemLeft" align="right" valign="top"><a id="ab8b7cf440f3cdc06e06c61b965126a10"></a>
-const uint8_t *&#160;</td><td class="memItemRight" valign="bottom"><b>get_ptr</b> () const</td></tr>
+<tr class="memitem:ab8b7cf440f3cdc06e06c61b965126a10"><td class="memItemLeft" align="right" valign="top">const uint8_t *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classblit_1_1File.html#ab8b7cf440f3cdc06e06c61b965126a10">get_ptr</a> () const</td></tr>
 <tr class="separator:ab8b7cf440f3cdc06e06c61b965126a10"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:aebfe8c4c1731bcbc214b6e1e500374fe"><td class="memItemLeft" align="right" valign="top"><a id="aebfe8c4c1731bcbc214b6e1e500374fe"></a>
-static void&#160;</td><td class="memItemRight" valign="bottom"><b>add_buffer_file</b> (std::string path, const uint8_t *ptr, uint32_t len)</td></tr>
+<tr class="memitem:aebfe8c4c1731bcbc214b6e1e500374fe"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classblit_1_1File.html#aebfe8c4c1731bcbc214b6e1e500374fe">add_buffer_file</a> (std::string path, const uint8_t *ptr, uint32_t len)</td></tr>
 <tr class="separator:aebfe8c4c1731bcbc214b6e1e500374fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>Class for accessing files on the SD card (device), the game directory (SDL) or in memory. </p>
+</div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="aebfe8c4c1731bcbc214b6e1e500374fe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aebfe8c4c1731bcbc214b6e1e500374fe">&#9670;&nbsp;</a></span>add_buffer_file()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void blit::File::add_buffer_file </td>
+          <td>(</td>
+          <td class="paramtype">std::string&#160;</td>
+          <td class="paramname"><em>path</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const uint8_t *&#160;</td>
+          <td class="paramname"><em>ptr</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>len</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p>Creates an in-memory file, which can be used like a regular (read-only) file.</p>
+<p>This is useful for porting code which assumes files, or for transparently moving data to flash for extra performance.</p>
+<p>Example using a packed asset: </p><div class="fragment"><div class="line"><a class="code" href="classblit_1_1File.html#aebfe8c4c1731bcbc214b6e1e500374fe">File::add_buffer_file</a>(<span class="stringliteral">&quot;asset_name.bin&quot;</span>, asset_name, asset_name_length);</div></div><!-- fragment --><p>Notes: The directory part of the path is not created if it does not exist, so <a class="el" href="namespaceblit.html#ae997d0b69eee0a4b2d4f6d30c8fa59b4">list_files</a>/<a class="el" href="namespaceblit.html#a89f9e08aba94bc53fc00b1b14c79e31f">directory_exists</a> may not work as expected in that case: (Assuming <code>path/to</code> does not exist on the SD card) </p><div class="fragment"><div class="line"><a class="code" href="classblit_1_1File.html#aebfe8c4c1731bcbc214b6e1e500374fe">File::add_buffer_file</a>(<span class="stringliteral">&quot;path/to/a.file&quot;</span>);</div><div class="line"></div><div class="line"><a class="code" href="namespaceblit.html#a5f37fe2d6326ba141626b2c3e6d3fa42">file_exists</a>(<span class="stringliteral">&quot;path/to/a.file&quot;</span>); <span class="comment">// true</span></div><div class="line"><a class="code" href="namespaceblit.html#a89f9e08aba94bc53fc00b1b14c79e31f">directory_exists</a>(<span class="stringliteral">&quot;path/to&quot;</span>); <span class="comment">// false!</span></div><div class="line"></div><div class="line"><a class="code" href="namespaceblit.html#ae997d0b69eee0a4b2d4f6d30c8fa59b4">list_files</a>(<span class="stringliteral">&quot;path/to&quot;</span>); <span class="comment">// vector containing info for &quot;a.file&quot;</span></div><div class="line"><a class="code" href="namespaceblit.html#ae997d0b69eee0a4b2d4f6d30c8fa59b4">list_files</a>(<span class="stringliteral">&quot;path&quot;</span>); <span class="comment">// empty!</span></div></div><!-- fragment --><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">path</td><td>Path for the file </td></tr>
+    <tr><td class="paramname">ptr</td><td>Pointer to file data </td></tr>
+    <tr><td class="paramname">len</td><td>Length of file data </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="ad64b7d1c9db678598f3dd0c27c24521e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad64b7d1c9db678598f3dd0c27c24521e">&#9670;&nbsp;</a></span>close()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void blit::File::close </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Close the file. Also called automatically by the destructor. </p>
+
+</div>
+</div>
+<a id="a2464fed32d893b7b5e2c6485e1278bfc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2464fed32d893b7b5e2c6485e1278bfc">&#9670;&nbsp;</a></span>get_length()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t blit::File::get_length </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Get file length</p>
+<dl class="section return"><dt>Returns</dt><dd>Length of the file in bytes. </dd></dl>
+
+</div>
+</div>
+<a id="ab8b7cf440f3cdc06e06c61b965126a10"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab8b7cf440f3cdc06e06c61b965126a10">&#9670;&nbsp;</a></span>get_ptr()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const uint8_t* blit::File::get_ptr </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<dl class="section return"><dt>Returns</dt><dd>pointer to data for in-memory files </dd></dl>
+
+</div>
+</div>
+<a id="aa12df85536f9a8f9487f9bbfdb386f44"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa12df85536f9a8f9487f9bbfdb386f44">&#9670;&nbsp;</a></span>is_open()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool blit::File::is_open </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<dl class="section return"><dt>Returns</dt><dd><code>true</code> if file is open </dd></dl>
+
+</div>
+</div>
+<a id="a6e05100e1e8b60de8f0621e8740c3c75"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6e05100e1e8b60de8f0621e8740c3c75">&#9670;&nbsp;</a></span>open()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool blit::File::open </td>
+          <td>(</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>file</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>mode</em> = <code>OpenMode::read</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Open a file. If a file is already open it will be automatically closed.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">file</td><td>Path to open. </td></tr>
+    <tr><td class="paramname">mode</td><td><a class="el" href="namespaceblit.html#ad9d2ea50c0698f25e2185a42aefaf2da">OpenMode</a> to open file as. Cannot contain <a class="el" href="namespaceblit.html#ad9d2ea50c0698f25e2185a42aefaf2daa9bb479cd265b7a8fa5ab8f2542c836d6" title="Open file for writing. ">write</a> for in-memory files.</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>true if file opened successfully </dd></dl>
+
+</div>
+</div>
+<a id="a489f3ac4cab172d811cc2daf2dc19083"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a489f3ac4cab172d811cc2daf2dc19083">&#9670;&nbsp;</a></span>read()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int32_t blit::File::read </td>
+          <td>(</td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>offset</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>length</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">char *&#160;</td>
+          <td class="paramname"><em>buffer</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Read a block of data from the file. Should not be called if the file was not opened for reading.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">offset</td><td>Offset to read from </td></tr>
+    <tr><td class="paramname">length</td><td>Length to read </td></tr>
+    <tr><td class="paramname">buffer</td><td>Pointer to buffer to store data into, should be at least <code>length</code> bytes</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>Number of bytes read successfully or -1 if an error occurred. </dd></dl>
+
+</div>
+</div>
+<a id="a865f6fc1ba5b797db31d45cb80539f77"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a865f6fc1ba5b797db31d45cb80539f77">&#9670;&nbsp;</a></span>write()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int32_t blit::File::write </td>
+          <td>(</td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>offset</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>length</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const char *&#160;</td>
+          <td class="paramname"><em>buffer</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Write a block of data to the file. Should not be called if the file was not opened for writing.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">offset</td><td>Offset to write to </td></tr>
+    <tr><td class="paramname">length</td><td>Length to write </td></tr>
+    <tr><td class="paramname">buffer</td><td>Pointer to data to write, should be at least <code>length</code> bytes</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>Number of bytes written successfully or -1 if an error occurred. </dd></dl>
+
+</div>
+</div>
 <hr/>The documentation for this class was generated from the following files:<ul>
 <li>engine/<a class="el" href="file_8hpp_source.html">file.hpp</a></li>
 <li>engine/file.cpp</li>
@@ -142,7 +405,7 @@ static void&#160;</td><td class="memItemRight" valign="bottom"><b>add_buffer_fil
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>blit</b></li><li class="navelem"><a class="el" href="classblit_1_1File.html">File</a></li>
+    <li class="navelem"><a class="el" href="namespaceblit.html">blit</a></li><li class="navelem"><a class="el" href="classblit_1_1File.html">File</a></li>
     <li class="footer">Generated by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>

@@ -80,6 +80,7 @@ $(document).ready(function(){initNavTree('mode7_8cpp.html','');});
 
 <div class="header">
   <div class="summary">
+<a href="#namespaces">Namespaces</a> &#124;
 <a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
 <div class="title">mode7.cpp File Reference</div>  </div>
@@ -113,247 +114,24 @@ Include dependency graph for mode7.cpp:</div>
 </map>
 </div>
 </div><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:namespaceblit"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceblit.html">blit</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a41914778355a39ec1d2ca605e41ea985"><td class="memItemLeft" align="right" valign="top">Vec2&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="mode7_8cpp.html#a41914778355a39ec1d2ca605e41ea985">blit::world_to_screen</a> (Vec2 w, float fov, float angle, Vec2 pos, float near, float far, Rect viewport)</td></tr>
+<tr class="memitem:a41914778355a39ec1d2ca605e41ea985"><td class="memItemLeft" align="right" valign="top">Vec2&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceblit.html#a41914778355a39ec1d2ca605e41ea985">blit::world_to_screen</a> (Vec2 w, float fov, float angle, Vec2 pos, float near, float far, Rect viewport)</td></tr>
 <tr class="separator:a41914778355a39ec1d2ca605e41ea985"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5c215340013b6ba1acfa6323aad90508"><td class="memItemLeft" align="right" valign="top">Vec2&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="mode7_8cpp.html#a5c215340013b6ba1acfa6323aad90508">blit::screen_to_world</a> (Vec2 s, float fov, float angle, Vec2 pos, float near, float far, Rect viewport)</td></tr>
+<tr class="memitem:a5c215340013b6ba1acfa6323aad90508"><td class="memItemLeft" align="right" valign="top">Vec2&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceblit.html#a5c215340013b6ba1acfa6323aad90508">blit::screen_to_world</a> (Vec2 s, float fov, float angle, Vec2 pos, float near, float far, Rect viewport)</td></tr>
 <tr class="separator:a5c215340013b6ba1acfa6323aad90508"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ace27258965452830a186852c6ba5c070"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="mode7_8cpp.html#ace27258965452830a186852c6ba5c070">blit::mode7</a> (Surface *dest, Surface *sprites, MapLayer *layer, float fov, float angle, Vec2 pos, float near, float far, Rect viewport)</td></tr>
+<tr class="memitem:ace27258965452830a186852c6ba5c070"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceblit.html#ace27258965452830a186852c6ba5c070">blit::mode7</a> (Surface *dest, Surface *sprites, MapLayer *layer, float fov, float angle, Vec2 pos, float near, float far, Rect viewport)</td></tr>
 <tr class="separator:ace27258965452830a186852c6ba5c070"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Emulate mode7 graphics effects. </p>
 <p>Functions to emulate the mode7 graphics effect from classic consoles. </p>
-</div><h2 class="groupheader">Function Documentation</h2>
-<a id="file_ace27258965452830a186852c6ba5c070"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#file_ace27258965452830a186852c6ba5c070">&#9670;&nbsp;</a></span>mode7()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void blit::mode7 </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="structblit_1_1Surface.html">Surface</a> *&#160;</td>
-          <td class="paramname"><em>dest</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="structblit_1_1Surface.html">Surface</a> *&#160;</td>
-          <td class="paramname"><em>sprites</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="structblit_1_1MapLayer.html">MapLayer</a> *&#160;</td>
-          <td class="paramname"><em>layer</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>fov</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>angle</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="structblit_1_1Vec2.html">Vec2</a>&#160;</td>
-          <td class="paramname"><em>pos</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>near</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>far</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="structblit_1_1Rect.html">Rect</a>&#160;</td>
-          <td class="paramname"><em>viewport</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<p>TODO: Document</p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramdir">[in]</td><td class="paramname">dest</td><td></td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">sprites</td><td></td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">layer</td><td></td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">fov</td><td></td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">angle</td><td></td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">pos</td><td></td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">near</td><td></td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">far</td><td></td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">viewport</td><td></td></tr>
-  </table>
-  </dd>
-</dl>
-
-</div>
-</div>
-<a id="file_a5c215340013b6ba1acfa6323aad90508"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#file_a5c215340013b6ba1acfa6323aad90508">&#9670;&nbsp;</a></span>screen_to_world()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">Vec2 blit::screen_to_world </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="structblit_1_1Vec2.html">Vec2</a>&#160;</td>
-          <td class="paramname"><em>s</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>fov</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>angle</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="structblit_1_1Vec2.html">Vec2</a>&#160;</td>
-          <td class="paramname"><em>pos</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>near</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>far</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="structblit_1_1Rect.html">Rect</a>&#160;</td>
-          <td class="paramname"><em>viewport</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<p>Convert a screen coordinate to a mode7 world-space coordinate.</p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramdir">[in]</td><td class="paramname">s</td><td>vec2 describing the screen coordinate </td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">fov</td><td>Current camera field-of-view </td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">angle</td><td>Current camera z-angle in mode7 world-space </td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">pos</td><td>Current camera position in mode7 world-space </td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">near</td><td>Distance to nearest visible point </td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">far</td><td>Distance to furthest visible point </td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">viewport</td><td></td></tr>
-  </table>
-  </dd>
-</dl>
-
-</div>
-</div>
-<a id="file_a41914778355a39ec1d2ca605e41ea985"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#file_a41914778355a39ec1d2ca605e41ea985">&#9670;&nbsp;</a></span>world_to_screen()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">Vec2 blit::world_to_screen </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="structblit_1_1Vec2.html">Vec2</a>&#160;</td>
-          <td class="paramname"><em>w</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>fov</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>angle</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="structblit_1_1Vec2.html">Vec2</a>&#160;</td>
-          <td class="paramname"><em>pos</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>near</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>far</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="structblit_1_1Rect.html">Rect</a>&#160;</td>
-          <td class="paramname"><em>viewport</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<p>TODO: Document</p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramdir">[in]</td><td class="paramname">w</td><td></td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">fov</td><td></td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">angle</td><td></td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">pos</td><td></td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">near</td><td></td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">far</td><td></td></tr>
-    <tr><td class="paramdir">[in]</td><td class="paramname">viewport</td><td></td></tr>
-  </table>
-  </dd>
-</dl>
-
-</div>
-</div>
-</div><!-- contents -->
+</div></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->

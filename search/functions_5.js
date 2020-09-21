@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['h_5fspan',['h_span',['../structblit_1_1Surface.html#af81db9b4d9f2cb652d794d976ea269be',1,'blit::Surface']]],
-  ['hsv_5fto_5frgba',['hsv_to_rgba',['../color_8cpp.html#a2f5438d2e936f98ef833fe13bd8b9055',1,'blit']]]
+  ['generate_5fmipmaps',['generate_mipmaps',['../structblit_1_1Surface.html#a5475ac177bc2410bb300e40a281de27b',1,'blit::Surface']]],
+  ['get_5flength',['get_length',['../classblit_1_1File.html#a2464fed32d893b7b5e2c6485e1278bfc',1,'blit::File']]],
+  ['get_5fptr',['get_ptr',['../classblit_1_1File.html#ab8b7cf440f3cdc06e06c61b965126a10',1,'blit::File']]]
 ];
