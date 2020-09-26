@@ -80,6 +80,7 @@ var NAVTREEINDEX2 =
 "structblit_1_1packed__image.html#ad8cd3f837481a0864c57897f4f6150e7":[1,0,0,12,2],
 "structblit_1_1timer__event__t.html":[1,0,0,27],
 "surface_8cpp.html":[2,0,2,10],
+"surface_8cpp.html#a1a714145ee9cce9c262db4a8a66e21a4":[2,0,2,10,0],
 "surface_8hpp_source.html":[2,0,2,11],
 "tilemap_8cpp.html":[2,0,2,12],
 "tilemap_8hpp_source.html":[2,0,2,13],

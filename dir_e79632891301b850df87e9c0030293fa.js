@@ -10,7 +10,7 @@ var dir_e79632891301b850df87e9c0030293fa =
     [ "primitive.cpp", "primitive_8cpp.html", "primitive_8cpp" ],
     [ "sprite.cpp", "sprite_8cpp.html", null ],
     [ "sprite.hpp", "sprite_8hpp_source.html", null ],
-    [ "surface.cpp", "surface_8cpp.html", null ],
+    [ "surface.cpp", "surface_8cpp.html", "surface_8cpp" ],
     [ "surface.hpp", "surface_8hpp_source.html", null ],
     [ "tilemap.cpp", "tilemap_8cpp.html", null ],
     [ "tilemap.hpp", "tilemap_8hpp_source.html", null ]
