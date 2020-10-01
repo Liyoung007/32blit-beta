@@ -1,5 +1,6 @@
 var NAVTREEINDEX1 =
 {
+"structblit_1_1Map.html#a473b787c62d12aa5b5d1e3fd46340981":[1,0,0,8,0],
 "structblit_1_1Map.html#a4efbf78bd61980d72056db8353f405e7":[1,0,0,8,6],
 "structblit_1_1Map.html#a56b0cd52188817b072214a6547da12d5":[1,0,0,8,8],
 "structblit_1_1Map.html#a64aa864a63e5f6db158807fec1fb134c":[1,0,0,8,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX1 =
 "structblit_1_1Timer.html#acf6476d7e862e380104ee3d1b9ff5ed6":[1,0,0,26,13],
 "structblit_1_1Timer.html#adc0e94cfd6a6195ebe21c4d4a6b9555b":[1,0,0,26,2],
 "structblit_1_1Timer.html#adde89e5b775a3275f9e8c6b78cfdc6aa":[1,0,0,26,4],
-"structblit_1_1Timer.html#aded26d1a630bc5b96c393e6677508094":[1,0,0,26,1],
-"structblit_1_1Timer.html#aded26d1a630bc5b96c393e6677508094a7b3f3151eb3fa76cd79a2b59a8d72409":[1,0,0,26,1,2]
+"structblit_1_1Timer.html#aded26d1a630bc5b96c393e6677508094":[1,0,0,26,1]
 };

@@ -10,6 +10,7 @@ var structblit_1_1API =
     [ "decode_jpeg_file", "structblit_1_1API.html#ac694e04e679c3a7a6c3b2fffd22ad4b0", null ],
     [ "directory_exists", "structblit_1_1API.html#a05ff0f19e01d710cda199c75a3cb3b9d", null ],
     [ "enable_us_timer", "structblit_1_1API.html#aeed877825139dbc3ec95d582cb89934b", null ],
+    [ "exit", "structblit_1_1API.html#a6f68487da84bcef733d249fb4ebe69ce", null ],
     [ "file_exists", "structblit_1_1API.html#a5489e0e22467390f80a1b97c69b096f8", null ],
     [ "get_file_length", "structblit_1_1API.html#a33e017f05174f32483134f69f57e3aaf", null ],
     [ "get_max_us_timer", "structblit_1_1API.html#ab3065520774efda9b1c7afe22fb28918", null ],
