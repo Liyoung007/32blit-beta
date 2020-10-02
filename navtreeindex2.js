@@ -1,5 +1,8 @@
 var NAVTREEINDEX2 =
 {
+"structblit_1_1Timer.html#adc0e94cfd6a6195ebe21c4d4a6b9555b":[1,0,0,26,2],
+"structblit_1_1Timer.html#adde89e5b775a3275f9e8c6b78cfdc6aa":[1,0,0,26,4],
+"structblit_1_1Timer.html#aded26d1a630bc5b96c393e6677508094":[1,0,0,26,1],
 "structblit_1_1Timer.html#aded26d1a630bc5b96c393e6677508094a7b3f3151eb3fa76cd79a2b59a8d72409":[1,0,0,26,1,2],
 "structblit_1_1Timer.html#aded26d1a630bc5b96c393e6677508094a82ca2e702071496bf6883e7fd94b0175":[1,0,0,26,1,0],
 "structblit_1_1Timer.html#aded26d1a630bc5b96c393e6677508094ac3897c4a857461e81f3b3a3f3a284af6":[1,0,0,26,1,3],

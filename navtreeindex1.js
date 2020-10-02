@@ -1,5 +1,8 @@
 var NAVTREEINDEX1 =
 {
+"structblit_1_1JPEGImage.html#a1b2bcfcfca2bfac4a3c9b363d8b8b4f5":[1,0,0,7,0],
+"structblit_1_1JPEGImage.html#a24132bfa06ebb424a6644d3d606e7999":[1,0,0,7,1],
+"structblit_1_1Map.html":[1,0,0,8],
 "structblit_1_1Map.html#a473b787c62d12aa5b5d1e3fd46340981":[1,0,0,8,0],
 "structblit_1_1Map.html#a4efbf78bd61980d72056db8353f405e7":[1,0,0,8,6],
 "structblit_1_1Map.html#a56b0cd52188817b072214a6547da12d5":[1,0,0,8,8],
@@ -246,8 +249,5 @@ var NAVTREEINDEX1 =
 "structblit_1_1Timer.html#a9c22e7723620e1bd3ecc0cbff64e0a8e":[1,0,0,26,0],
 "structblit_1_1Timer.html#aaf39d7fd4617922b1e927643c8ed8e44":[1,0,0,26,7],
 "structblit_1_1Timer.html#ac1b49ea1da05aeadafed013842c4b70a":[1,0,0,26,11],
-"structblit_1_1Timer.html#acf6476d7e862e380104ee3d1b9ff5ed6":[1,0,0,26,13],
-"structblit_1_1Timer.html#adc0e94cfd6a6195ebe21c4d4a6b9555b":[1,0,0,26,2],
-"structblit_1_1Timer.html#adde89e5b775a3275f9e8c6b78cfdc6aa":[1,0,0,26,4],
-"structblit_1_1Timer.html#aded26d1a630bc5b96c393e6677508094":[1,0,0,26,1]
+"structblit_1_1Timer.html#acf6476d7e862e380104ee3d1b9ff5ed6":[1,0,0,26,13]
 };

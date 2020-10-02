@@ -5,10 +5,13 @@ var NAVTREEINDEX0 =
 "api__private_8hpp_source.html":[2,0,1,1],
 "audio_8cpp.html":[2,0,0,0],
 "audio_8cpp.html#a158df737d482731ab59de92655488a4c":[2,0,0,0,0],
-"audio_8cpp.html#a6bfc6ceb595777f0cbc4b1f5e2e07080":[2,0,0,0,4],
+"audio_8cpp.html#a6bfc6ceb595777f0cbc4b1f5e2e07080":[2,0,0,0,7],
 "audio_8cpp.html#a7ad01c523caa5ba64c9a8bb73f23eda4":[2,0,0,0,1],
-"audio_8cpp.html#a7e09a4c21e9d1d0557a31c2aea821083":[2,0,0,0,2],
-"audio_8cpp.html#a83f86b26beface7a3e50018f359bf534":[2,0,0,0,3],
+"audio_8cpp.html#a7e09a4c21e9d1d0557a31c2aea821083":[2,0,0,0,5],
+"audio_8cpp.html#a83f86b26beface7a3e50018f359bf534":[2,0,0,0,6],
+"audio_8cpp.html#ac169ad432a088a61ca4171678da90124":[2,0,0,0,2],
+"audio_8cpp.html#acb06b22752bdb8e7623fa2b667eb8a55":[2,0,0,0,3],
+"audio_8cpp.html#af8ad4d468e1d7408c4b3ceda9b495394":[2,0,0,0,4],
 "audio_8hpp_source.html":[2,0,0,1],
 "blend_8hpp_source.html":[2,0,2,0],
 "classblit_1_1File.html":[1,0,0,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX0 =
 "structblit_1_1Font.html#ab57ed4b5011bdecc1c9ea8c03be482c6":[1,0,0,6,6],
 "structblit_1_1Font.html#ad910b6b130bac3b468be0f74781f99a5":[1,0,0,6,0],
 "structblit_1_1Font.html#ae513a43c05c11622873dfc0a3a03fdda":[1,0,0,6,5],
-"structblit_1_1JPEGImage.html":[1,0,0,7],
-"structblit_1_1JPEGImage.html#a1b2bcfcfca2bfac4a3c9b363d8b8b4f5":[1,0,0,7,0],
-"structblit_1_1JPEGImage.html#a24132bfa06ebb424a6644d3d606e7999":[1,0,0,7,1],
-"structblit_1_1Map.html":[1,0,0,8]
+"structblit_1_1JPEGImage.html":[1,0,0,7]
 };
