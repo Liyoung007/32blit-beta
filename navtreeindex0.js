@@ -170,7 +170,7 @@ var NAVTREEINDEX0 =
 "sprite_8hpp_source.html":[2,0,2,9],
 "structblit_1_1API.html":[1,0,0,0],
 "structblit_1_1API.html#a05ff0f19e01d710cda199c75a3cb3b9d":[1,0,0,0,8],
-"structblit_1_1API.html#a0b5812cbe02df9436cd36ca4fc417085":[1,0,0,0,30],
+"structblit_1_1API.html#a0b5812cbe02df9436cd36ca4fc417085":[1,0,0,0,31],
 "structblit_1_1API.html#a1afb534d0e3612eb17305179c42ddd57":[1,0,0,0,22],
 "structblit_1_1API.html#a1afbff20be040dc3389d5e2d0dbd7270":[1,0,0,0,24],
 "structblit_1_1API.html#a2a952a8dae0f054dc9b422275bbf0e42":[1,0,0,0,15],
@@ -188,7 +188,7 @@ var NAVTREEINDEX0 =
 "structblit_1_1API.html#ab3806e710bf0f03942b3aba96215e037":[1,0,0,0,25],
 "structblit_1_1API.html#ab8ae768e60baba6b889c3d093049c724":[1,0,0,0,4],
 "structblit_1_1API.html#ababd0d5fe855762df8353d983add5f2f":[1,0,0,0,18],
-"structblit_1_1API.html#abb1f778cb756130ac8c456b847c53b47":[1,0,0,0,29],
+"structblit_1_1API.html#abb1f778cb756130ac8c456b847c53b47":[1,0,0,0,30],
 "structblit_1_1API.html#abd003b95b6f7e681afdd9c543f840bc5":[1,0,0,0,5],
 "structblit_1_1API.html#ac694e04e679c3a7a6c3b2fffd22ad4b0":[1,0,0,0,7],
 "structblit_1_1API.html#adac3fdedf3c97203bfd29a08a53f006b":[1,0,0,0,23],
@@ -198,6 +198,7 @@ var NAVTREEINDEX0 =
 "structblit_1_1API.html#aeaac26fd8a515ba421a6978aa6076235":[1,0,0,0,20],
 "structblit_1_1API.html#aed981057bd258960a50b455f89b77d25":[1,0,0,0,27],
 "structblit_1_1API.html#aeed877825139dbc3ec95d582cb89934b":[1,0,0,0,9],
+"structblit_1_1API.html#af7ae8901419f7d204efdf122240d3638":[1,0,0,0,29],
 "structblit_1_1API.html#affa6b18d19befd0cdda16da15b53ff5d":[1,0,0,0,26],
 "structblit_1_1API.html#affb37740c92c3c5ea8451744ff53ff37":[1,0,0,0,1],
 "structblit_1_1AudioChannel.html":[1,0,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "structblit_1_1Font.html#a7940b51cf48b32e834b0c5ca7ad3f90a":[1,0,0,6,3],
 "structblit_1_1Font.html#ab57ed4b5011bdecc1c9ea8c03be482c6":[1,0,0,6,6],
 "structblit_1_1Font.html#ad910b6b130bac3b468be0f74781f99a5":[1,0,0,6,0],
-"structblit_1_1Font.html#ae513a43c05c11622873dfc0a3a03fdda":[1,0,0,6,5],
-"structblit_1_1JPEGImage.html":[1,0,0,7]
+"structblit_1_1Font.html#ae513a43c05c11622873dfc0a3a03fdda":[1,0,0,6,5]
 };

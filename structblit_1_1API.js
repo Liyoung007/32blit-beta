@@ -29,6 +29,7 @@ var structblit_1_1API =
     [ "set_screen_mode", "structblit_1_1API.html#affa6b18d19befd0cdda16da15b53ff5d", null ],
     [ "set_screen_palette", "structblit_1_1API.html#aed981057bd258960a50b455f89b77d25", null ],
     [ "tilt", "structblit_1_1API.html#ae4eecbcfb512e7bba6c16ed0f379835b", null ],
+    [ "version", "structblit_1_1API.html#af7ae8901419f7d204efdf122240d3638", null ],
     [ "vibration", "structblit_1_1API.html#abb1f778cb756130ac8c456b847c53b47", null ],
     [ "write_file", "structblit_1_1API.html#a0b5812cbe02df9436cd36ca4fc417085", null ]
 ];
