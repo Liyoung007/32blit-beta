@@ -12,6 +12,7 @@ var namespaceblit =
     [ "MapLayer", "structblit_1_1MapLayer.html", "structblit_1_1MapLayer" ],
     [ "Mat3", "structblit_1_1Mat3.html", "structblit_1_1Mat3" ],
     [ "Mat4", "structblit_1_1Mat4.html", "structblit_1_1Mat4" ],
+    [ "Menu", "classblit_1_1Menu.html", "classblit_1_1Menu" ],
     [ "packed_image", "structblit_1_1packed__image.html", "structblit_1_1packed__image" ],
     [ "Particle", "structblit_1_1Particle.html", "structblit_1_1Particle" ],
     [ "ParticleGenerator", "structblit_1_1ParticleGenerator.html", "structblit_1_1ParticleGenerator" ],

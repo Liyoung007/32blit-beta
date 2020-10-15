@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['vec2',['Vec2',['../structblit_1_1Vec2.html',1,'blit']]],
-  ['vec3',['Vec3',['../structblit_1_1Vec3.html',1,'blit']]]
+  ['tilemap',['TileMap',['../structblit_1_1TileMap.html',1,'blit']]],
+  ['timer',['Timer',['../structblit_1_1Timer.html',1,'blit']]],
+  ['timer_5fevent_5ft',['timer_event_t',['../structblit_1_1timer__event__t.html',1,'blit']]],
+  ['tween',['Tween',['../structblit_1_1Tween.html',1,'blit']]]
 ];
