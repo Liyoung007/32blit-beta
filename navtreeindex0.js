@@ -5,10 +5,9 @@ var NAVTREEINDEX0 =
 "api__private_8hpp_source.html":[2,0,1,1],
 "audio_8cpp.html":[2,0,0,0],
 "audio_8cpp.html#a158df737d482731ab59de92655488a4c":[2,0,0,0,0],
-"audio_8cpp.html#a6bfc6ceb595777f0cbc4b1f5e2e07080":[2,0,0,0,7],
+"audio_8cpp.html#a6bfc6ceb595777f0cbc4b1f5e2e07080":[2,0,0,0,6],
 "audio_8cpp.html#a7ad01c523caa5ba64c9a8bb73f23eda4":[2,0,0,0,1],
-"audio_8cpp.html#a7e09a4c21e9d1d0557a31c2aea821083":[2,0,0,0,5],
-"audio_8cpp.html#a83f86b26beface7a3e50018f359bf534":[2,0,0,0,6],
+"audio_8cpp.html#a83f86b26beface7a3e50018f359bf534":[2,0,0,0,5],
 "audio_8cpp.html#ac169ad432a088a61ca4171678da90124":[2,0,0,0,2],
 "audio_8cpp.html#acb06b22752bdb8e7623fa2b667eb8a55":[2,0,0,0,3],
 "audio_8cpp.html#af8ad4d468e1d7408c4b3ceda9b495394":[2,0,0,0,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX0 =
 "structblit_1_1AudioChannel.html#a7784cda52f3b8e845afebec4be4711ab":[1,0,0,1,8],
 "structblit_1_1AudioChannel.html#a7a4b081dbfb167929575ca9cb0872c44":[1,0,0,1,12],
 "structblit_1_1AudioChannel.html#a9725c2257b61ba65957deefb2354e784":[1,0,0,1,6],
-"structblit_1_1AudioChannel.html#a997caf257e0c367b2be22aa0fc20c5ec":[1,0,0,1,9]
+"structblit_1_1AudioChannel.html#a997caf257e0c367b2be22aa0fc20c5ec":[1,0,0,1,9],
+"structblit_1_1AudioChannel.html#a9a12161094d006785d7b34009bca0128":[1,0,0,1,0]
 };

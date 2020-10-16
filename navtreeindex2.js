@@ -1,6 +1,5 @@
 var NAVTREEINDEX2 =
 {
-"structblit_1_1Surface.html#af2a272e56d084e36b0948d643720bc2d":[1,0,0,25,36],
 "structblit_1_1Surface.html#af81db9b4d9f2cb652d794d976ea269be":[1,0,0,25,15],
 "structblit_1_1Surface.html#af8290cbe4eb9eb8b06ea8e8441e87082":[1,0,0,25,45],
 "structblit_1_1Surface.html#afac11eeea0cd8510770890fcd035c638":[1,0,0,25,22],

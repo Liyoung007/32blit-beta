@@ -1,6 +1,5 @@
 var NAVTREEINDEX1 =
 {
-"structblit_1_1AudioChannel.html#a9a12161094d006785d7b34009bca0128":[1,0,0,1,0],
 "structblit_1_1AudioChannel.html#aa4d056bf694024614856e9b358a061bd":[1,0,0,1,26],
 "structblit_1_1AudioChannel.html#aab6e565b44e8ec90893e2d51c1fefc82":[1,0,0,1,23],
 "structblit_1_1AudioChannel.html#aad31efd992146d638444d0c2be954d05":[1,0,0,1,21],
@@ -249,5 +248,6 @@ var NAVTREEINDEX1 =
 "structblit_1_1Surface.html#ae27f6e99863e2a2337e6dbc7660800bb":[1,0,0,25,39],
 "structblit_1_1Surface.html#ae5e8ccc094f132b73909bb023126d500":[1,0,0,25,55],
 "structblit_1_1Surface.html#af0222b9af3e91c0244fb6608eac2112f":[1,0,0,25,4],
-"structblit_1_1Surface.html#af0b03fbcb99d801be75dbe7a72af2ab5":[1,0,0,25,9]
+"structblit_1_1Surface.html#af0b03fbcb99d801be75dbe7a72af2ab5":[1,0,0,25,9],
+"structblit_1_1Surface.html#af2a272e56d084e36b0948d643720bc2d":[1,0,0,25,36]
 };

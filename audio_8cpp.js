@@ -5,7 +5,6 @@ var audio_8cpp =
     [ "prng_lfsr_next", "audio_8cpp.html#ac169ad432a088a61ca4171678da90124", null ],
     [ "prng_lfsr", "audio_8cpp.html#acb06b22752bdb8e7623fa2b667eb8a55", null ],
     [ "prng_tap", "audio_8cpp.html#af8ad4d468e1d7408c4b3ceda9b495394", null ],
-    [ "sample_rate", "audio_8cpp.html#a7e09a4c21e9d1d0557a31c2aea821083", null ],
     [ "sine_waveform", "audio_8cpp.html#a83f86b26beface7a3e50018f359bf534", null ],
     [ "volume", "audio_8cpp.html#a6bfc6ceb595777f0cbc4b1f5e2e07080", null ]
 ];
